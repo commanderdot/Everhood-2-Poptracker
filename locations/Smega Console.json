@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Smega Console",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["smega_console_key"],
+    "children": [
+      {
+        "name": "Smega Console - 'D' Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "301",
+            "y": "323"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Chest Before Riley",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1155",
+            "y": "390"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console Chest Platform",
+        "sections": [
+          {
+            "name": "Chest - Power Gem"
+          },
+          {
+            "name": "Motherboard BOOL x3 Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1148",
+            "y": "220"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Audio Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1200",
+            "y": "50"
+          }
+        ]
+      },
+      {
+        "name": "Doctor Dump",
+        "sections": [
+          {
+            "name": "Gas Mask Cosmetic"
+          },
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1230",
+            "y": "50"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM N Chest D-E",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "800",
+            "y": "200"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SE Chest by Dunkey",
+        "sections": [
+          {
+            "name": "100xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "1116",
+            "y": "510"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SE Chest A-B",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "933",
+            "y": "440"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SW Northern Chest",
+        "sections": [
+          {
+            "name": "Power Gem "
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "165",
+            "y": "392"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - N Chest F",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "205",
+            "y": "165"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - SE Chest A-Y",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "690",
+            "y": "460"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - SE Chest Y-C",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "750",
+            "y": "620"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM N Chest F-C",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "312",
+            "y": "110"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SW Southern Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "275",
+            "y": "735"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SW Center Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "165",
+            "y": "480"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SE Chest B-F",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "1170",
+            "y": "404"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - RAM SW Eastern Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "475",
+            "y": "627"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Maze Chest Behind Matrix",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "55",
+            "y": "980"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Maze Chest East",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "298",
+            "y": "989"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Post Maze Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "517",
+            "y": "640"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Chest After Processor Int",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "340",
+            "y": "1170"
+          }
+        ]
+      },
+      {
+        "name": "Smega Console - Maze Chest South",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "100",
+            "y": "1100"
+          }
+        ]
+      },
+      {
+        "name": "Motherboard INT Battle",
+        "sections": [
+          {
+            "name": "Motherboard INT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1200",
+            "y": "390"
+          }
+        ]
+      },
+      {
+        "name": "Motherboard CHAR Battle",
+        "sections": [
+          {
+            "name": "Motherboard CHAR Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1100",
+            "y": "175"
+          }
+        ]
+      },
+      {
+        "name": "Motherboard While Battle",
+        "sections": [
+          {
+            "name": "Motherboard While Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1195",
+            "y": "185"
+          }
+        ]
+      },
+      {
+        "name": "RAM N INT Battle",
+        "sections": [
+          {
+            "name": "RAM INT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "1070",
+            "y": "80"
+          }
+        ]
+      },
+      {
+        "name": "RAM BOOL Battle",
+        "sections": [
+          {
+            "name": "RAM BOOL Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "930",
+            "y": "205"
+          }
+        ]
+      },
+      {
+        "name": "RAM N While Battle",
+        "sections": [
+          {
+            "name": "RAM While Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "380",
+            "y": "240"
+          }
+        ]
+      },
+      {
+        "name": "RAM SE While Battle",
+        "sections": [
+          {
+            "name": "RAM While Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "786",
+            "y": "585"
+          }
+        ]
+      },
+      {
+        "name": "RAM SE INT Battle",
+        "sections": [
+          {
+            "name": "RAM INT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "695",
+            "y": "598"
+          }
+        ]
+      },
+      {
+        "name": "RAM SE CHAR Battle",
+        "sections": [
+          {
+            "name": "RAM CHAR Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "902",
+            "y": "655"
+          }
+        ]
+      },
+      {
+        "name": "RAM SW FLOAT Battle",
+        "sections": [
+          {
+            "name": "RAM FLOAT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "190",
+            "y": "690"
+          }
+        ]
+      },
+      {
+        "name": "RAM SW CHAR Battle 2",
+        "sections": [
+          {
+            "name": "RAM CHAR Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "215",
+            "y": "465"
+          }
+        ]
+      },
+      {
+        "name": "RAM SW MATRIX Battle",
+        "sections": [
+          {
+            "name": "RAM MATRIX Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console RAM",
+            "x": "360",
+            "y": "720"
+          }
+        ]
+      },
+      {
+        "name": "Processor Gate Battle",
+        "sections": [
+          {
+            "name": "Processor Gate Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Motherboard",
+            "x": "1163",
+            "y": "10"
+          }
+        ]
+      },
+      {
+        "name": "Processor INT Battle",
+        "sections": [
+          {
+            "name": "Processor INT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "340",
+            "y": "1250"
+          }
+        ]
+      },
+      {
+        "name": "Processor FLOAT Battle",
+        "sections": [
+          {
+            "name": "Processor FLOAT Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "180",
+            "y": "880"
+          }
+        ]
+      },
+      {
+        "name": "Processor MATRIX Battle",
+        "sections": [
+          {
+            "name": "Processor MATRIX Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "50",
+            "y": "890"
+          }
+        ]
+      },
+      {
+        "name": "Processor BOOL Battle",
+        "sections": [
+          {
+            "name": "Processor BOOL Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "220",
+            "y": "1035"
+          }
+        ]
+      },
+      {
+        "name": "Processor CHAR Battle",
+        "sections": [
+          {
+            "name": "Processor CHAR Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "410",
+            "y": "940"
+          }
+        ]
+      },
+      {
+        "name": "Processor WHILE Battle",
+        "sections": [
+          {
+            "name": "Processor WHILE Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "420",
+            "y": "660"
+          }
+        ]
+      },
+      {
+        "name": "Corrupt Irvine Battle",
+        "sections": [
+          {
+            "name": "Corrupt Irvine Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Smega Console Processor",
+            "x": "410",
+            "y": "50"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Pandemonium", // Don't know how useful this one is, maybe have the riley's fortress checks here and Battle Colluseam, and pandemonium
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["pandemonium_key"],
+    "children": [
+      {
+        "name": "Pandemonium Chest",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Torment Room Chest",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Judge Creation Battle",
+        "sections": [
+          {
+            "name": "Judge Creation Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Bobo Battle",
+        "sections": [
+          {
+            "name": "Bobo Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Shade Demon Battle",
+        "sections": [
+          {
+            "name": "Shade Demon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Black Hole Battle",
+        "sections": [
+          {
+            "name": "Black Hole Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pandemonium",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

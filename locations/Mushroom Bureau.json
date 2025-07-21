@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Mushroom Bureau",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["mushroom_bureau_key"],
+    "children": [
+      {
+        "name": "Sun Insignia",
+        "sections": [
+          {
+            "name": "Sun Insignia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Mushroom Bureau Power Gem",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Moon Insignia",
+        "sections": [
+          {
+            "name": "Moon Insignia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Mushroom Bureau Death Coin",
+        "sections": [
+          {
+            "name": "Death Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Brown Slow Mushroom Sun Battle",
+        "sections": [
+          {
+            "name": "Brown Slow Mushroom Sun Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Hydra Mushroom Battle",
+        "sections": [
+          {
+            "name": "Hydra Mushroom Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Smelly Gas Mushroom Battle",
+        "sections": [
+          {
+            "name": "Smelly Gas Mushroom Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Brown Slow Mushroom Moon Battle",
+        "sections": [
+          {
+            "name": "Brown Slow Mushroom Moon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Sun Knight Battle",
+        "sections": [
+          {
+            "name": "Sun Knight Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Judge Mushroom Battle",
+        "sections": [
+          {
+            "name": "Judge Mushroom Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Mushroom Bureau",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

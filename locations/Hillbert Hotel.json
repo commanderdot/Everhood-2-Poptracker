@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Hillbert Hotel",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["neon_forest_key"],
+    "children": [
+      {
+        "name": "Keys",
+        "sections": [
+          {
+            "name": "Floor 23 Key"
+          },
+          {
+            "name": "Gold Key",
+            "access_rules": ["eternal_war_key", "marzian_key_year_0"]
+          },
+          {
+            "name": "Green Key",
+            "access_rules": ["marzian_key_year_1000"]
+          },
+          {
+            "name": "Pinecone Key",
+            "access_rules": ["marzian_key_year_2000"]
+          }
+          /*{
+            "name": "Omega Key",
+            "access_rules": ["@Logic/Post Dragon"]
+          }*/
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "167",
+            "y": "535"
+          }
+        ]
+      },
+      {
+        "name": "Reward Chest",
+        "sections": [
+          {
+            "name": "Floor 23 Reward - 100xp",
+            "access_rules": ["floor_23_key"]
+          },
+          {
+            "name": "Floor 23 Reward - Cat Ears Cosmetic",
+            "access_rules": ["floor_23_key"]
+          },
+          {
+            "name": "Floor 23 Reward - Cat Ears Bald Cosmetic",
+            "access_rules": ["floor_23_key"]
+          },
+          {
+            "name": "Floor Gold Reward - 50xp",
+            "access_rules": ["gold_key"]
+          },
+          {
+            "name": "Floor Gold Reward - Oingo Boingo Cosmetic",
+            "access_rules": ["gold_key"]
+          },
+          {
+            "name": "Floor Green Reward - Power Gem",
+            "access_rules": ["green_key"]
+          },
+          {
+            "name": "Floor Pinecone Reward - Power Gem",
+            "access_rules": ["pinecone_key"]
+          },
+          {
+            "name": "Floor Pinecone Reward - Reindeer Skull Cosmetic",
+            "access_rules": ["pinecone_key"]
+          },
+          {
+            "name": "Floor Omega Reward - Power Gem",
+            "access_rules": ["omega_key"]
+          },
+          {
+            "name": "Floor Omega Reward - Jester Hat Cosmetic",
+            "access_rules": ["omega_key"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "80",
+            "y": "375"
+          }
+        ]
+      },
+      {
+        "name": "Floor 23",
+        "access_rules": ["floor_23_key"],
+        "sections": [
+          {
+            "name": "Floor 23 Chest 1 - 50xp"
+          },
+          {
+            "name": "Floor 23 Chest 2 - 50xp"
+          },
+          {
+            "name": "Floor 23 Smega Reward Chest - 50xp"
+          },
+          {
+            "name": "Hillbert Processor Int Battle"
+          },
+          {
+            "name": "Rasputin Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "20",
+            "y": "40"
+          }
+        ]
+      },
+      {
+        "name": "Floor Gold",
+        "access_rules": ["gold_key"],
+        "sections": [
+          {
+            "name": "Floor Gold Chest - 50xp"
+          },
+          {
+            "name": "Bobo (Drunk) Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "92",
+            "y": "40"
+          }
+        ]
+      },
+      {
+        "name": "Floor Pinecone",
+        "access_rules": ["pinecone_key"],
+        "sections": [
+          {
+            "name": "Floor Pinecone Chest - 50xp"
+          },
+          {
+            "name": "Squirrels Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "260",
+            "y": "40"
+          }
+        ]
+      },
+      {
+        "name": "Sam's Room",
+        "access_rules": ["marzian_key_year_3000"],
+        "sections": [
+          {
+            "name": "Crystal Key"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "20",
+            "y": "110"
+          }
+        ]
+      },
+      {
+        "name": "Lucy's Room",
+        "access_rules": ["lab_key"],
+        "sections": [
+          {
+            "name": "Lucy Battle"
+          },
+          {
+            "name": "Lucy Reward - Duality"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "432",
+            "y": "60"
+          }
+        ]
+      },
+      {
+        "name": "Floor Omega",
+        "access_rules": ["omega_key"],
+        "sections": [
+          {
+            "name": "Floor Omega Chest - Power Gem"
+          },
+          {
+            "name": "Cazok Carrot Battle"
+          },
+          {
+            "name": "Cazok Ghost Battle"
+          },
+          {
+            "name": "Cazok Vanguard 3D Battle"
+          },
+          {
+            "name": "Cazok Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Hillbert Hotel",
+            "x": "340",
+            "y": "45"
+          }
+        ]
+      }
+    ]
+  }
+]

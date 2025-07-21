@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Death Mountain",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["death_mountain_key"],
+    "children": [
+      {
+        "name": "Death Mountain Chest 1",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 2",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 3",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 4",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 5",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 6",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Death Coin",
+        "sections": [
+          {
+            "name": "Death Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Death Mountain Chest 8",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Rock Battle 1",
+        "sections": [
+          {
+            "name": "Rock Battle 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Rock Battle 2",
+        "sections": [
+          {
+            "name": "Rock Battle 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Mimic Chest Battle",
+        "sections": [
+          {
+            "name": "Mimic Chest Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Mimic Apple Battle",
+        "sections": [
+          {
+            "name": "Mimic Apple Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Harpy Battle 1",
+        "sections": [
+          {
+            "name": "Harpy Battle 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Zombie Battle 1",
+        "sections": [
+          {
+            "name": "Zombie Battle 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Zombie Battle 2",
+        "sections": [
+          {
+            "name": "Zombie Battle 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Zombie Battle 3",
+        "sections": [
+          {
+            "name": "Zombie Battle 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Rock Battle 3",
+        "sections": [
+          {
+            "name": "Rock Battle 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Harpy Battle 2",
+        "sections": [
+          {
+            "name": "Harpy Battle 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Crab Machine Battle",
+        "sections": [
+          {
+            "name": "Crab Machine Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Dmitri Battle",
+        "sections": [
+          {
+            "name": "Dmitri Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Death Mountain",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

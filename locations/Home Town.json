@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Home Town",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["home_town_key"],
+    "children": [
+      {
+        "name": "Pet the Orange Cat",
+        "sections": [
+          {
+            "name": "Pet the Orange Cat"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Home Town",
+            "x": "920",
+            "y": "250"
+          }
+        ]
+      },
+      {
+        "name": "Pet the Grey Cat",
+        "sections": [
+          {
+            "name": "Pet the Grey Cat"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Home Town",
+            "x": "680",
+            "y": "220"
+          }
+        ]
+      },
+      {
+        "name": "Pet the Black Cat",
+        "sections": [
+          {
+            "name": "Pet the Black Cat"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Home Town",
+            "x": "30",
+            "y": "300"
+          }
+        ]
+      },
+      {
+        "name": "Chase The Dog",
+        "sections": [
+          {
+            "name": "Bead Braclet"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Home Town",
+            "x": "490",
+            "y": "260"
+          }
+        ]
+      }
+    ]
+  }
+]

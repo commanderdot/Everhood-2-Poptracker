@@ -1,0 +1,169 @@
+{
+  "tabbed_maps_horizontal": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Cosmic Hub",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Cosmic Hub"
+          ]
+        }
+      },
+      {
+        "title": "Neon Jungle",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Neon Jungle"
+          ]
+        }
+      },
+      {
+        "title": "Hillbert Hotel",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Hillbert Hotel"
+          ]
+        }
+      },
+      {
+        "title": "Eternal War",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Eternal War"
+          ]
+        }
+      },
+      {
+        "title": "Marzian Era 0",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Marzian Era 0"
+          ]
+        }
+      },
+      {
+        "title": "Lab",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Lab"
+          ]
+        }
+      },
+      {
+        "title": "Smega Console Motherboard",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Smega Console Motherboard"
+          ]
+        }
+      },
+      {
+        "title": "Smega Console RAM",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Smega Console RAM"
+          ]
+        }
+      },
+      {
+        "title": "Smega Console Processor",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Smega Console Processor"
+          ]
+        }
+      },
+      {
+        "title": "Home Town",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Home Town"
+          ]
+        }
+      },
+      {
+        "title": "Infinity Hub",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Infinity Hub"
+          ]
+        }
+      },
+            {
+        "title": "Marzian Era 3000",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Marzian Era 3000"
+          ]
+        }
+      },
+      {
+        "title": "Marzian Era 4000",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Marzian Era 4000"
+          ]
+        }
+      },
+      {
+        "title": "Death Mountain",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Death Mountain"
+          ]
+        }
+      },
+      {
+        "title": "Everhood 1",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Everhood 1"
+          ]
+        }
+      },
+      {
+        "title": "Pandemonium",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Pandemonium"
+          ]
+        }
+      },
+      {
+        "title": "Battle Collosseum",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Battle Collosseum"
+          ]
+        }
+      },
+      {
+        "title": "Riley's Fortress",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Riley's Fortress"
+          ]
+        }
+      }
+    ]
+  }
+}

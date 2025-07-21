@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Marzian Era 4000",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["marzian_key_year_4000"],
+    "children": [
+      {
+        "name": "Marzian Era 4000 Chest",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Marzian Soul Weapon",
+        "sections": [
+          {
+            "name": "Soul Weapon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Lurker Battle",
+        "sections": [
+          {
+            "name": "Lurker Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Marzian Battle",
+        "sections": [
+          {
+            "name": "Marzian Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "True Chase Battle",
+        "sections": [
+          {
+            "name": "True Chameleon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Shark Jailor Battle",
+        "sections": [
+          {
+            "name": "True Chameleon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Feugo Battle (Era 4000)",
+        "sections": [
+          {
+            "name": "Feugo Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 4000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

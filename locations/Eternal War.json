@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Eternal War",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["eternal_war_key"],
+    "children": [
+      {
+        "name": "Eternal War - Chest After Melon",
+        "sections": [
+          {
+            "name": "100xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "370",
+            "y": "687"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Chest Behind Chili",
+        "sections": [
+          {
+            "name": "Hotdog Cosmetic"
+          },
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "320",
+            "y": "570"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Chest behind Leek",
+        "sections": [
+          {
+            "name": "75xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "65",
+            "y": "1105"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Chest Behind Bell Pepper",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "705",
+            "y": "1150"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Final Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "1180",
+            "y": "600"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Dungeon Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "848",
+            "y": "925"
+          }
+        ]
+      },
+      {
+        "name": "Eternal War - Dungeon Power Gem",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "1158",
+            "y": "830"
+          }
+        ]
+      },
+      {
+        "name": "Red Onion Battle",
+        "sections": [
+          {
+            "name": "Red Onion Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "170",
+            "y": "1200"
+          }
+        ]
+      },
+      {
+        "name": "Leek Battle",
+        "sections": [
+          {
+            "name": "Leek Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "113",
+            "y": "1180"
+          }
+        ]
+      },
+      {
+        "name": "Bro-ccoli",
+        "sections": [
+          {
+            "name": "Bro-ccoli Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "640",
+            "y": "1210"
+          }
+        ]
+      },
+      {
+        "name": "Bell Pepper Battle",
+        "sections": [
+          {
+            "name": "Bell Pepper Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "680",
+            "y": "1160"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Lower Left Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Lower Left Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "430",
+            "y": "1130"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Lower Middle Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Lower Middle Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "520",
+            "y": "1130"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Lower Right Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Lower Right Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "620",
+            "y": "1120"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Upper Left Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Upper Left Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "470",
+            "y": "990"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Upper Middle Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Upper Middle Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "540",
+            "y": "1020"
+          }
+        ]
+      },
+      {
+        "name": "Tomato Rush Upper Right Battle",
+        "sections": [
+          {
+            "name": "Tomato Rush Upper Right Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "620",
+            "y": "1020"
+          }
+        ]
+      },
+      {
+        "name": "Melon Battle",
+        "sections": [
+          {
+            "name": "Melon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "545",
+            "y": "853"
+          }
+        ]
+      },
+      {
+        "name": "Chili Battle",
+        "sections": [
+          {
+            "name": "Chili Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "530",
+            "y": "530"
+          }
+        ]
+      },
+      {
+        "name": "Capsicum Battle",
+        "sections": [
+          {
+            "name": "Capsicum Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "100",
+            "y": "330"
+          }
+        ]
+      },
+      {
+        "name": "Carrot Mage Battle",
+        "sections": [
+          {
+            "name": "Carrot Mage Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "360",
+            "y": "290"
+          }
+        ]
+      },
+      {
+        "name": "Juice Master#4671 Battle",
+        "sections": [
+          {
+            "name": "Juice Master Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eternal War",
+            "x": "1065",
+            "y": "260"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "placeholder hub", // Probably include the liminal rooms here on this map, and Irvine's pocket dimension fights
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["@PostDragon"],
+    "children": [
+      {
+        "name": "Liminal Room Chest 1",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Liminal Room Chest 2",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Jest 3D Battle 1",
+        "sections": [
+          {
+            "name": "Jest 3D Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Jest 3D Battle 2",
+        "sections": [
+          {
+            "name": "Jest 3D Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Doopy Dragon 3D Battle",
+        "sections": [
+          {
+            "name": "Doopy Dragon 3D Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Vanguard 3D Battle",
+        "sections": [
+          {
+            "name": "Vanguard 3D Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Infinity Hub",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

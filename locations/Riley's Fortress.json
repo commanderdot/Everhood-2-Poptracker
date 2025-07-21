@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Riley's Fortress",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["riley's_fortress_key"],
+    "children": [
+      {
+        "name": "Void Harpy Battle 1",
+        "sections": [
+          {
+            "name": "Void Harpy Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Void Harpy Battle 2",
+        "sections": [
+          {
+            "name": "Void Harpy Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Void Harpy Battle 3",
+        "sections": [
+          {
+            "name": "Void Harpy Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Void Harpy Battle 4",
+        "sections": [
+          {
+            "name": "Void Harpy Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Void Harpy Battle 5",
+        "sections": [
+          {
+            "name": "Void Harpy Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Evren Battle",
+        "sections": [
+          {
+            "name": "Evren Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Riley Battle",
+        "sections": [
+          {
+            "name": "Riley Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Post Credits Shade Battle",
+        "sections": [
+          {
+            "name": "Post Credits Shade Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Riley's Fortress",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

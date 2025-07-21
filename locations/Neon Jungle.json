@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Neon Jungle",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["neon_forest_key"],
+    "children": [
+      {
+        "name": "Neon Jungle Chest Section 1 South East",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "300",
+            "y": "740"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Chest Section 1 North West",
+        "sections": [
+          {
+            "name": "75xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "65",
+            "y": "570"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Chest Section 2 North West",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "520",
+            "y": "620"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Chest Section 2 South East",
+        "sections": [
+          {
+            "name": "75xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "730",
+            "y": "810"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Chest Section 3 West",
+        "sections": [
+          {
+            "name": "100xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "480",
+            "y": "270"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Chest Section 3 East",
+        "sections": [
+          {
+            "name": "0xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "785",
+            "y": "290"
+          }
+        ]
+      },
+      {
+        "name": "Neon Jungle Power Gem",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "493",
+            "y": "53"
+          }
+        ]
+      },
+      {
+        "name": "Neon City Barbershop",
+        "sections": [
+          {
+            "name": "Anime Hairstyle Cosmetic"
+          },
+          {
+            "name": "Mage Hat Cosmetic"
+          },
+          {
+            "name": "Wild Hairstyle Cosmetic"
+          },
+          {
+            "name": "Backslick Hairstyle Cosmetic"
+          },
+          {
+            "name": "Stylish Hairstyle Cosmetic"
+          },
+          {
+            "name": "Natural Hairstyle Cosmetic"
+          },
+          {
+            "name": "Afro Hairstyle Cosmetic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "105",
+            "y": "40"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Before Neon City",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "35",
+            "y": "60"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Battle Section 1 Right",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "210",
+            "y": "750"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Battle Section 1 Left",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "110",
+            "y": "700"
+          }
+        ]
+      },
+      {
+        "name": "Double Spring Head Section 1",
+        "sections": [
+          {
+            "name": "Double Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "100",
+            "y": "600"
+          }
+        ]
+      },
+      {
+        "name": "Dark Pirahna Section 1 Chest Protector",
+        "sections": [
+          {
+            "name": "Dark Pirahna Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "275",
+            "y": "740"
+          }
+        ]
+      },
+      {
+        "name": "Dark Pirahna Section 1 Exit",
+        "sections": [
+          {
+            "name": "Dark Pirahna Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "220",
+            "y": "630"
+          }
+        ]
+      },
+      {
+        "name": "Homonculus Battle",
+        "sections": [
+          {
+            "name": "Homonculus Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "555",
+            "y": "780"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Battle Section 2 Middle",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "560",
+            "y": "680"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Battle Section 2 North",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "600",
+            "y": "600"
+          }
+        ]
+      },
+      {
+        "name": "Spring Head Battle Section 2 South",
+        "sections": [
+          {
+            "name": "Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "660",
+            "y": "780"
+          }
+        ]
+      },
+      {
+        "name": "Neon String Section 2",
+        "sections": [
+          {
+            "name": "Neon String Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "520",
+            "y": "650"
+          }
+        ]
+      },
+      {
+        "name": "Dark Pirahna Section 2",
+        "sections": [
+          {
+            "name": "Dark Pirahna Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "730",
+            "y": "650"
+          }
+        ]
+      },
+      {
+        "name": "Cowgirl Homonculus Battle",
+        "sections": [
+          {
+            "name": "Cowgirl Homonculus Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "718",
+            "y": "362"
+          }
+        ]
+      },
+      {
+        "name": "Double Spring Head Battle Section 3",
+        "sections": [
+          {
+            "name": "Double Spring Head Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "525",
+            "y": "220"
+          }
+        ]
+      },
+      {
+        "name": "Double Dark Pirahna Battle",
+        "sections": [
+          {
+            "name": "Double Dark Pirahna Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "510",
+            "y": "370"
+          }
+        ]
+      },
+      {
+        "name": "Neon String Section 3",
+        "sections": [
+          {
+            "name": "Neon String Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Neon Jungle",
+            "x": "660",
+            "y": "263"
+          }
+        ]
+      }
+    ]
+  }
+]

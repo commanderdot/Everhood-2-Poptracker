@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Lab",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["lab_key"],
+    "children": [
+      {
+        "name": "Lab Entrance Chest",
+        "sections": [
+          {
+            "name": "35xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "230",
+            "y": "375"
+          }
+        ]
+      },
+      {
+        "name": "Clover Artifact Chest",
+        "sections": [
+          {
+            "name": "Clover"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "380",
+            "y": "380"
+          }
+        ]
+      },
+      {
+        "name": "Lab Power Gem Chest",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "483",
+            "y": "370"
+          }
+        ]
+      },
+      {
+        "name": "Door of the Dead",
+        "sections": [
+          {
+            "name": "Soul Weapon - Katana"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "645",
+            "y": "270"
+          }
+        ]
+      },/*
+      {
+        "name": "Door of the Dead Battle",
+        "sections": [
+          {
+            "name": "Door of the Dead Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },*/
+      {
+        "name": "Ghost Chunky Battle",
+        "sections": [
+          {
+            "name": "Ghost Chunky Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "290",
+            "y": "255"
+          }
+        ]
+      },
+      {
+        "name": "Ghost Junkie Battle",
+        "sections": [
+          {
+            "name": "Ghost Junkie Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "230",
+            "y": "340"
+          }
+        ]
+      },
+      {
+        "name": "Ghost Franky Battle",
+        "sections": [
+          {
+            "name": "Ghost Franky Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lab",
+            "x": "130",
+            "y": "256"
+          }
+        ]
+      }
+    ]
+  }
+]

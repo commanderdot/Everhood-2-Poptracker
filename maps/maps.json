@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Battle Collosseum",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/battle_collosseum.png"
+  },
+  {
+    "name": "Death Mountain",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/death_mountain.png"
+  },
+  {
+    "name": "Eternal War",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/eternal_war.png"
+  },
+  {
+    "name": "Everhood 1",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/everhood_1.png"
+  },
+  {
+    "name": "Hillbert Hotel",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/hillbert_hotel.png"
+  },
+  {
+    "name": "Home Town",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/home_town.png"
+  },
+  {
+    "name": "Infinity Hub",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/infinity_hub.png"
+  },
+  {
+    "name": "Marzian Era 0",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/marzian_era_0.png"
+  },
+  {
+    "name": "Marzian Era 3000",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/marzian_era_3000.png"
+  },
+  {
+    "name": "Marzian Era 4000",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/marzian_era_4000.png"
+  },
+  {
+    "name": "Mushroom Bureau",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/mushroom_bureau.png"
+  },
+  {
+    "name": "Neon Jungle",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/neon_jungle.png"
+  },
+  {
+    "name": "Pandemonium",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/pandemonium.png"
+  },
+  {
+    "name": "Riley's Fortress",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/riley's_fortress.png"
+  },
+  {
+    "name": "Smega Console Motherboard",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/smega_console_motherboard.png"
+  },
+  {
+    "name": "Smega Console RAM",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/smega_console_ram.png"
+  },
+  {
+    "name": "Smega Console Processor",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/smega_console_processor.png"
+  },
+  {
+    "name": "Lab",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/lab.png"
+  },
+  {
+    "name": "Cosmic Hub",
+    "location_size": 20,
+    "location_border_thickness": 1,
+    "img": "images/maps/cosmic_hub.png"
+  }
+]

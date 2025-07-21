@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Everhood 1",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["everhood_1_key"],
+    "children": [
+      {
+        "name": "V.I.P. Ticket",
+        "sections": [
+          {
+            "name": "V.I.P. Ticket"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Long Plank",
+        "sections": [
+          {
+            "name": "Long Plank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Yellow Mask",
+        "sections": [
+          {
+            "name": "Yellow Mask"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Everhood 1 Death Coin",
+        "sections": [
+          {
+            "name": "Death Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Light Being Soul Weapon",
+        "sections": [
+          {
+            "name": "Soul Weapon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Yellow Battle",
+        "sections": [
+          {
+            "name": "Yellow Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Cursed Castle Battle",
+        "sections": [
+          {
+            "name": "Cursed Castle Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Light Being Battle",
+        "sections": [
+          {
+            "name": "Light Being Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Slot Machine Battle",
+        "sections": [
+          {
+            "name": "Slot Machine Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Everhood 1",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

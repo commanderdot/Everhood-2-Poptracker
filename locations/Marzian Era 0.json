@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Marzian Era 0",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["marzian_key_year_0"],
+    "children": [
+      {
+        "name": "Marzian Era 0 - Mines Chest",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1240",
+            "y": "720"
+          }
+        ]
+      },
+      {
+        "name": "Marzian Era 0 - Power Gem",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "784",
+            "y": "555"
+          }
+        ]
+      },
+      {
+        "name": "Marzian Era 0 - Mining Base Chest",
+        "sections": [
+          {
+            "name": "Crimson Bandanna"
+          },
+          {
+            "name": "Red Bandana Cosmetic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1020",
+            "y": "87"
+          }
+        ]
+      },
+      {
+        "name": "Hyena Battle Screech",
+        "sections": [
+          {
+            "name": "Hyena Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "350",
+            "y": "630"
+          }
+        ]
+      },
+      {
+        "name": "Hyena Battle Warcry",
+        "sections": [
+          {
+            "name": "Hyena Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "410",
+            "y": "850"
+          }
+        ]
+      },
+      {
+        "name": "Shark Battle Bloodnose",
+        "sections": [
+          {
+            "name": "Shark Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "570",
+            "y": "750"
+          }
+        ]
+      },
+      {
+        "name": "Howler & Razor Battle",
+        "sections": [
+          {
+            "name": "Hyena and Shark Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "770",
+            "y": "600"
+          }
+        ]
+      },
+      {
+        "name": "Feugo Battle",
+        "sections": [
+          {
+            "name": "Tiger Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "532",
+            "y": "430"
+          }
+        ]
+      },
+      {
+        "name": "Insect Abomination Battle",
+        "sections": [
+          {
+            "name": "Insect Abomination Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "840",
+            "y": "190"
+          }
+        ]
+      },
+      {
+        "name": "Anxious Chase Battle",
+        "sections": [
+          {
+            "name": "Chameleon Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1040",
+            "y": "170"
+          }
+        ]
+      },
+      {
+        "name": "Howler & Razor & Maggot Battle",
+        "sections": [
+          {
+            "name": "Triple Hyena Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1130",
+            "y": "110"
+          }
+        ]
+      },
+      {
+        "name": "Dimension Master Battle",
+        "sections": [
+          {
+            "name": "Dimension Master Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1225",
+            "y": "60"
+          }
+        ]
+      },
+      {
+        "name": "Opus & Screech Battle",
+        "sections": [
+          {
+            "name": "Shark and Hyena Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 0",
+            "x": "1100",
+            "y": "190"
+          }
+        ]
+      }
+    ]
+  }
+]

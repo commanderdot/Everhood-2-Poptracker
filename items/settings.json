@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Starting Soul Color",
+    "type": "progressive",
+    "codes": "starting_soul_color",
+    "loop": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/Blue.png",
+        "name": "Blue Soul",
+        "codes": "blue_soul"
+      },
+      {
+        "img": "images/settings/Green.png",
+        "name": "Green Soul",
+        "codes": "green_soul"
+      },
+      {
+        "img": "images/settings/Red.png",
+        "name": "Red Soul",
+        "codes": "red_soul"
+      }
+    ]
+  },
+  {
+    "name": "Door Keys",
+    "type": "toggle",
+    "img": "images/settings/Door_Keys.png",
+    "codes": "door_keys"
+  },
+  {
+    "name": "Dragon Gems",
+    "type": "consumable",
+    "codes": "dragon_gems"
+  },
+  {
+    "name": "Randomize Cosmetics",
+    "type": "toggle",
+    "img": "images/settings/cosmetics.png",
+    "codes": "random_cosmetics"
+  },
+{
+    "name": "Randomize Battle Rewards",
+    "type": "progressive",
+    "codes": "battle_rewards",
+    "loop": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/settings/none_battles.png",
+        "name": "No Battles",
+        "codes": "no_battles"
+      },
+      {
+        "img": "images/settings/major_battles.png",
+        "name": "Major Battles",
+        "codes": "major_battles"
+      },
+      {
+        "img": "images/settings/unique_battles.png",
+        "name": "Unique Battles",
+        "codes": "unique_battles"
+      },
+      {
+        "img": "images/settings/all_battles.png",
+        "name": "All Battles",
+        "codes": "all_battles"
+      }
+    ]
+  },
+  {
+    "name": "Hillbert Hotel",
+    "type": "toggle",
+    "img": "images/settings/hillbert_hotel.png",
+    "codes": "random_hillbert_hotel"
+  }
+]

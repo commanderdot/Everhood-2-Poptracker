@@ -1,0 +1,54 @@
+{
+  "shared_item_grid_horizontal": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 36,
+            "item_width": 36,
+            "rows": [
+              [
+                "power_gem",
+                "death_coin",
+                "red_soul_axe",
+                "green_soul_spear",
+                "blue_soul_knives",
+                "katana"
+              ],
+              [
+                "neon_forest_key",
+                "marzian_key_year_0",
+                "eternal_war_key",
+                "smega_console_key",
+                "lab_key",
+                "home_town_key"
+              ],
+              [
+                "floor_23_key",
+                "gold_key",
+                "green_key",
+                "pinecone_key",
+                "omega_key"
+              ],
+              [
+                "moon_emblem",
+                "sun_emblem"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

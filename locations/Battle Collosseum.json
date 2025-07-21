@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Battle Collosseum",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["battle_collosseum_key"],
+    "children": [
+      {
+        "name": "Collosseum Reward 1",
+        "sections": [
+          {
+            "name": "Power Gem"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Knight Helmet Cosmetic",
+        "sections": [
+          {
+            "name": "Knight Helmet Cosmetic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Collosseum Reward 2",
+        "sections": [
+          {
+            "name": "Death Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Collosseum Reward 3",
+        "sections": [
+          {
+            "name": "2 Power Gems"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Collosseum Reward 4",
+        "sections": [
+          {
+            "name": "3 Power Gems"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Collosseum Reward 5",
+        "sections": [
+          {
+            "name": "2 Power Gems"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Collosseum Reward 6",
+        "sections": [
+          {
+            "name": "2 Power Gems"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Jean D'Arc Battle",
+        "sections": [
+          {
+            "name": "Jean D'Arc Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Molly Battle",
+        "sections": [
+          {
+            "name": "Molly Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "RAM FOR LOOP Battle",
+        "sections": [
+          {
+            "name": "RAM FOR LOOP Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Dragon 3 Battle",
+        "sections": [
+          {
+            "name": "Dragon 3 Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Mushroom House Battle",
+        "sections": [
+          {
+            "name": "Mushroom House Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Battle Collosseum",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]

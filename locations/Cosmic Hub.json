@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Cosmic Hub",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": [""],
+    "children": [
+      {
+        "name": "Stopwatch Artifact",
+        "sections": [
+          {
+            "name": "Stopwatch Artifact"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Cosmic Hub",
+            "x": "855",
+            "y": "60"
+          }
+        ]
+      },
+      {
+        "name": "Raven Tutorial Battle",
+        "sections": [
+          {
+            "name": "Raven Tutorial Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Cosmic Hub",
+            "x": "918",
+            "y": "60"
+          }
+        ]
+      },
+      {
+        "name": "Marzian Era 1000 & 2000", 
+        "sections": [
+          {
+            "access_rules": ["marzian_key_year_1000"],
+            "name": "Year 1000 - Dimension Portal Battle"
+          },
+          {
+            "access_rules": ["marzian_key_year_2000"],
+            "name": "Year 2000 - Blue Stonegrunt Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Cosmic Hub",
+            "x": "870",
+            "y": "300"
+          }
+        ]
+      },
+      {
+        "name": "Dragon Fight",
+        "access_rules": ["@HasGemsForGoal"],
+        "sections": [
+          {
+            "name": "Victory"
+          }
+          /*{
+            "access_rules": ["@HasGemsForGoal"],
+            "name": "Soul Weapon"
+          }*/
+        ],
+        "map_locations": [
+          {
+            "map": "Cosmic Hub",
+            "x": "474",
+            "y": "90"
+          }
+        ]
+      }
+      /*{
+        "name": "Neon Jungle",
+        "sections": [
+          {
+            "name": "",
+            "ref": "Neon Jungle/"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Cosmic Hub",
+            "x": "182",
+            "y": "85"
+          }
+        ]
+      }*/
+    ]
+  }
+]

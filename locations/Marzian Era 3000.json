@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Marzian Era 3000",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "access_rules": ["marzian_key_year_3000"],
+    "children": [
+      {
+        "name": "Marzian Era 3000 Chest 1",
+        "sections": [
+          {
+            "name": "100xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Marzian Era 3000 Chest 2",
+        "sections": [
+          {
+            "name": "50xp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Thriller Battle 1",
+        "sections": [
+          {
+            "name": "Thriller Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Lurker Battle 1",
+        "sections": [
+          {
+            "name": "Lurker Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Lurker Battle 2",
+        "sections": [
+          {
+            "name": "Lurker Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Wheeler Battle 1",
+        "sections": [
+          {
+            "name": "Wheeler Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Lurker Battle 3",
+        "sections": [
+          {
+            "name": "Lurker Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Wheeler Battle 2",
+        "sections": [
+          {
+            "name": "Wheeler Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      },
+      {
+        "name": "Thriller Battle 2",
+        "sections": [
+          {
+            "name": "Thriller Battle"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Marzian Era 3000",
+            "x": "",
+            "y": ""
+          }
+        ]
+      }
+    ]
+  }
+]
